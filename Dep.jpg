@@ -1,3 +1,8 @@
+12.5.4259171:12.5.3:18-03-2022:
+Add NewAIO Samira.
+Fixed Ezreal W not Cast if minions Close.
+Some small bugs fix.
+//---------------------------------
 12.5.4259171:12.5.2:14-03-2022:
 Improved Evade path.
 Reworked Testprediction 4.
