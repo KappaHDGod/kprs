@@ -1,3 +1,11 @@
+12.5.4259171:12.5.4:23-03-2022:
+Add NewAIO Vayne.
+Add NewAIO Varus.
+Add NewAIO Lucian.
+Add NewAIO Tristana.
+Bug fix orbwalker ( need feedbacks).
+Improved prediction .
+//---------------------------------
 12.5.4259171:12.5.3:18-03-2022:
 Add NewAIO Samira.
 Fixed Ezreal W not Cast if minions Close.
